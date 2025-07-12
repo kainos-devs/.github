@@ -1,0 +1,3 @@
+# Ignore everything inside 'commits/' except .keep file 
+commits/*
+!commits/helper.sh
