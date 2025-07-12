@@ -6,7 +6,7 @@ A guide to all memebers and contributors of the Kainos organization. We have def
 
 ## <ins>Why this repo exists ?</ins> 🤔 
 
-This repository ensured every project, big or small, reflects the same values: clarity, consistency, and creativity. 
+This repository ensured every project, big or small, reflects the same values: **clarity**, **consistency**, and **creativity**. 
 
 ## <ins>What's here ?</ins> 🚀
 
