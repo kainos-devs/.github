@@ -34,6 +34,6 @@ This repository ensured every project, big or small, reflects the same values: c
 
 All content in this repository is published under [**CC0 1.0**](License), dedicated to the public domain. Feel free to adapt these ideas into your own organizations.
 
-> <ins>**`Remember`**</ins> ✨
+> ### <ins>**`Remember`**</ins> ✨
 >
 > This isn’t just another repo. It’s the shared philosophy, discipline, and creative spirit that drives innovation in our minds—and shapes who we become as developers.
