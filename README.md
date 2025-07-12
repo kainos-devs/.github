@@ -22,13 +22,13 @@ This repository ensured every project, big or small, reflects the same values: c
 
 ## <ins>Core Principles</ins> 💡
 
-- **Ethical Engineering** – We prioritize honesty above shortcuts.  Make no compromises when it comes to doing the right thing.
+- **_Ethical Engineering_** – We prioritize honesty above shortcuts.  Make no compromises when it comes to doing the right thing.
 
-- **Clarity above Cleverness** – Choose clear, legible, and maintainable code above flashy techniques.
+- **_Clarity above Cleverness_** – Choose clear, legible, and maintainable code above flashy techniques.
 
-- **Communication First** – Commit explicitly, explain pull requests thoughtfully, and work respectfully.
+- **_Communication First_** – Commit explicitly, explain pull requests thoughtfully, and work respectfully.
 
-- **The open-source mindset** -  Encourages the free exchange of knowledge.  Develop and create as a community.
+- **_The open-source mindset_** -  Encourages the free exchange of knowledge.  Develop and create as a community.
 
 ## <ins>License</ins> 📜 
 
