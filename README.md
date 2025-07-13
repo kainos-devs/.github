@@ -13,7 +13,7 @@ This repository ensured every project, big or small, reflects the same values: *
 | **Rules or Templates** | **Purpose** | 
 |---|---|
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Community behavior and respect guidelines |
-| [`CONTRIBUTING.md`]() | How to contribute responsibly and effectively |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute responsibly and effectively |
 | [`branch_norms.md`]() | Our Git branching flow and naming conventions |
 | [`commit_conventions.md`]() | How we format commit messages |
 | [`style_guides/`]() | Language-specific code style rules (e.g., C, JS) |

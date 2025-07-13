@@ -1,8 +1,8 @@
-# <ins>**Contributing Guidelines**</ins> ✨
+# <ins>Contributing Guidelines</ins> ✨
 
 Thank you for your interest in contributing! 🤗 We're excited to have you onboard and build something meaningful together.
 
-## <ins>**Project Structure Guidelines**</ins> 🧱
+## <ins>Project Structure Guidelines</ins> 🧱
 
 - All source code should go into a `/src` directory unless the entire project consists of just one or two small files (under 200 lines). In such cases, you may place the files directly in the root of the repository or still choose to create a `/src` folder for consistency.
 
@@ -26,7 +26,7 @@ Thank you for your interest in contributing! 🤗 We're excited to have you onbo
 
 - For projects that include a **command-line interface** (CLI), it’s important to provide usage examples. This can be part of the main `README.md` or placed in a separate `USAGE.md` file. The examples should cover **installation**, **basic usage**, **available flags**, and **common commands**. Realistic examples can make the difference between a tool being understood and it being abandoned.
 
-## <ins>**Branching Strategy**</ins> 🔧
+## <ins>Branching Strategy</ins> 🔧
 
 We follow a structured branching model to ensure clarity, stability, and ease of collaboration throughout the development lifecycle. Every branch has a specific purpose. Please adhere to this structure when contributing:
 
@@ -46,7 +46,7 @@ This branching model supports **clean collaboration**, **easier reviews**, **rol
     👉 [Git and GitHub for Beginners – Crash Course by freeCodeCamp](https://youtu.be/RGOj5yH7evk)
     👉 [Everything You Need to Know about Git | ForrestKnight](https://youtu.be/K6Q31YkorUE)
 
-## <ins>**Commits**</ins> 📜 
+## <ins>Commits</ins> 📜 
 
 We follow a structured and expressive commit style to keep the project history clean, understandable, and easy to maintain. All contributors should use our custom convention (more at [commit_conventions](commit_conventions.md))
 
