@@ -1,6 +1,6 @@
 ## `Hi there` 👋
 
-> <ins>**Still setting things up!**</ins>
+> ## <ins>**Still setting things up!**</ins> 🚧
 >
 > This repository is still being actively written and structured.  
 > We're in the process of drafting our rules, regulations, and contribution guidelines.  
