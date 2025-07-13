@@ -50,7 +50,7 @@ This branching model supports **clean collaboration**, **easier reviews**, **rol
 
 We follow a structured and expressive commit style to keep the project history clean, understandable, and easy to maintain. All contributors should use our custom convention (more at [commit_conventions](commit_conventions.md))
 
-Each commit message should begin with a `@timestamp` prefix, which marks when the change was made. This improves chronological traceability, especially in fast-moving collaborative workflows or multi-feature branches. Timestamps are formatted as `@YYYYMMDD-HHMMSS` (24hr format, no punctuation), for example:
+- Each commit message should begin with a `@timestamp` prefix, which marks when the change was made. This improves chronological traceability, especially in fast-moving collaborative workflows or multi-feature branches. Timestamps are formatted as `@YYYYMMDD-HHMMSS` (24hr format, no punctuation), for example:
 
 ```
 `@2025_07_13-112851`: Add some more readme files 📝 
@@ -59,13 +59,29 @@ Each commit message should begin with a `@timestamp` prefix, which marks when th
 
 ```
 
-Beyond the timestamp, the commit type (`feat`, `fix`, etc.), `scope` (optional, in `[brackets]`), and descriptive message should follow. We also allow enhancements like backtick-wrapped types, minimal emoji use (if fitting), and trailing metadata such as `Reviewed-By:` or `Refs:`.
+- Beyond the timestamp, the commit type (`feat`, `fix`, etc.), `scope` (optional, in `[brackets]`), and descriptive message should follow. We also allow enhancements like backtick-wrapped types, minimal emoji use (if fitting), and trailing metadata such as `Reviewed-By:` or `Refs:`.
 
-For a complete guide to the structure, allowed types, scopes, and formatting rules, refer to [commit_conventions](commit_conventions.md). That document also explains what `Refs:` means and how to correctly use metadata fields.
+- For a complete guide to the structure, allowed types, scopes, and formatting rules, refer to [commit_conventions](commit_conventions.md). That document also explains what `Refs:` means and how to correctly use metadata fields.
 
-Please ensure your commits follow this convention before opening a pull request. You can use tools like `git commit --amend` or `git rebase -i` to fix messages after committing.
+- Please ensure your commits follow this convention before opening a pull request. You can use tools like `git commit --amend` or `git rebase -i` to fix messages after committing.
 
-If you prefer a smoother workflow for generating and managing commit messages, use the provided helper script located at `.github/commits/helper.sh` (_**Note**: It’s a basic version for now — still under development._)
+- If you prefer a smoother workflow for generating and managing commit messages, use the provided helper script located at `.github/commits/helper.sh` (_**Note**: It’s a basic version for now — still under development._)
+
+## <ins>Writing Markdown</ins> 📚
+
+All Markdown across Kainos projects and documentation should follow a consistent, expressive style that aligns with our values of **clarity**, **consistency**, and **creativity**. The goal is to make documents not only readable but also beautifully structured and emotionally resonant. Here's what we follow:
+
+- Use `<ins>underlines</ins>` for headers or phrases where highlighting structure or emphasis matters without overusing bold.
+
+- Use `**bold**` for emphasis on important words, values, or directives—like **clarity**, **respect**, or **required**.
+
+- Use emojis 🎯 when it enhances understanding, emotion, or context—especially in **headers**, **info blocks**, and **callouts**.
+
+- Use block quotes (`>`) to present guiding principles, inspiration, or highlighted tips.
+
+- Use tables to organize structured information like rules, templates, or configuration lists.
+
+- Align with the visual voice of our organization: mix of minimal structure + expressive tone + clean formatting.
 
 That's it! We value **consistency**, **clarity**, and **collaboration**. Mistakes are part of the process—what matters most is learning together and improving the project as a team. 🚀
 
