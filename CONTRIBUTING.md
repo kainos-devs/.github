@@ -83,6 +83,29 @@ All Markdown across Kainos projects and documentation should follow a consistent
 
 - Align with the visual voice of our organization: mix of minimal structure + expressive tone + clean formatting.
 
+## <ins>Pull Requests</ins> 📤
+
+- Before opening a pull request (PR), please ensure your contribution is clean, well-explained, and aligned with the project’s goals. Every PR—big or small—is part of our shared development journey and should reflect care, clarity, and collaboration.
+
+- All contributors are expected to use the official pull request template provided in the repository. The template helps maintain consistency across contributions and reminds you to include critical information such as what was changed, why it was needed, and how it was tested. If you're unsure whether your change warrants a PR, open a draft and ask for feedback.
+
+- If your pull request resolves a specific issue, always link it in the PR description using GitHub’s auto-linking syntax like:
+
+```
+Closes #42
+Fixes kainos-devs/editor#18
+```
+This ensures the issue is automatically closed when the PR is merged and improves traceability in the project history.
+
+- Before submitting, do a quick self-review of your changes:
+    * Is your code clear and clean?
+    * Does it follow the coding style and commit conventions?
+    * Did you test the feature or fix locally?
+    * Is the commit history tidy, or does it need squashing?
+
+PRs should ideally come from a feature or fix branch (e.g., `feature/editor-resize` or `fix/theme-glitch`) and target the `dev` branch, unless specifically discussed otherwise.
+
+
 That's it! We value **consistency**, **clarity**, and **collaboration**. Mistakes are part of the process—what matters most is learning together and improving the project as a team. 🚀
 
 
