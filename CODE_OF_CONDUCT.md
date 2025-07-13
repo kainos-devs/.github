@@ -8,7 +8,8 @@ As members of the Kainos organization, we pledge to:
 - Accept constructive feedback with openness and humility. Feedback helps us evolve, spot blind spots, and sharpen our craft — together.
 - Foster a friendly and collaborative atmosphere. A welcoming space helps us grow as individuals and as a community.
 
-### **NOTE**
+> ### <ins>**NOTE**</ins>
+>
 > If you witness a violation of these values, please report it privately to the maintainers.
 
 Let’s build cool things — kindly. ✨
