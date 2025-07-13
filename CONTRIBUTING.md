@@ -43,8 +43,9 @@ This branching model supports **clean collaboration**, **easier reviews**, **rol
 > ### <ins>**Note**</ins> 📌
 >
 > If you’re new to Git or version control in general, we strongly recommend watching the excellent free **Git tutorial** by _**freeCodeCamp.org**_ on **YouTube** or any other video listed below:
-    👉 [Git and GitHub for Beginners – Crash Course by freeCodeCamp](https://youtu.be/RGOj5yH7evk)
-    👉 [Everything You Need to Know about Git | ForrestKnight](https://youtu.be/K6Q31YkorUE)
+>    👉 [Git and GitHub for Beginners – Crash Course by freeCodeCamp](https://youtu.be/RGOj5yH7evk)
+>    
+>    👉 [Everything You Need to Know about Git | ForrestKnight](https://youtu.be/K6Q31YkorUE)
 
 ## <ins>Commits</ins> 📜 
 
