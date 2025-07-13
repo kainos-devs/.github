@@ -1,3 +1,5 @@
-# Ignore everything inside 'commits/' except .keep file 
+# Ignore everything inside 'commits/' except some files 
 commits/*
 !commits/helper.sh
+!commits/README.md 
+
